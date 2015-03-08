@@ -8,7 +8,7 @@ Type: Find the cycle and mod with cycle length
 
 #include <stdio.h>
 
-int main() {
+int main_LASTDIG() {
 	int t;
 	scanf("%d",&t);
 	unsigned long long int b;

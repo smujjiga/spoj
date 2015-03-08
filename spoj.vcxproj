@@ -78,9 +78,15 @@
     <None Include="readme.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ACPC10A.cpp" />
     <ClCompile Include="ACPC11B.cpp" />
+    <ClCompile Include="AE00.cpp" />
+    <ClCompile Include="AMR10G.cpp" />
+    <ClCompile Include="ARMY.cpp" />
     <ClCompile Include="FCTRL.cpp" />
+    <ClCompile Include="HPYNOS.cpp" />
     <ClCompile Include="LASTDIG.cpp" />
+    <ClCompile Include="OLOLO.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
